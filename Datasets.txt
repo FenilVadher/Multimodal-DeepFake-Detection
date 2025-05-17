@@ -1,0 +1,14 @@
+Text: 
+1 - https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection
+2 - https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
+
+Images:
+1 - https://www.kaggle.com/datasets/kshitizbhargava/deepfake-face-images
+
+Audio: 
+1 - https://www.kaggle.com/datasets/f0rtaza/fake-audio
+2 - https://www.kaggle.com/datasets/birdy654/deep-voice-deepfake-voice-recognition
+
+Video:
+1 - https://www.kaggle.com/datasets/itamargr/dfdc-faces-of-the-train-sample
+2 - https://www.kaggle.com/datasets/greatgamedota/dfdc-part-34
