@@ -1,0 +1,4 @@
+Text_DeepFake_Detection/bert_fake_news_model.zip filter=lfs diff=lfs merge=lfs -text
+Text_DeepFake_Detection/bert_fake_news_model/model.safetensors filter=lfs diff=lfs merge=lfs -text
+Text_DeepFake_Detection/custom_deberta_detector.pth filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
